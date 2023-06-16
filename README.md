@@ -19,3 +19,5 @@ The practice project consists of a web page built using HTML and CSS. It serves 
 
 - HTML
 - CSS
+Created Uber web page using HTML and CSS by utilizing different tags provided by html. Designed a stuctured and aligned web page which is highlighted by using css.
+
