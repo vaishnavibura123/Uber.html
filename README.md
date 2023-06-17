@@ -17,5 +17,9 @@ The project employs a combination of HTML tags to meet specific requirements and
 
 - HTML
 - CSS
-Created Uber web page using HTML and CSS by utilizing different tags provided by html. Designed a stuctured and aligned web page which is highlighted by using css.
+## Project available on
+I have published my project on GitHub and stored it in a GitHub repository. The links for the project are provided below.
+https://github.com/vaishnavibura123/Uber.html
+Deployed link
+https://vaishnavibura123.github.io/Uber.html/
 
